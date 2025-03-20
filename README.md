@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solar Energy Calculator
 
 This project is a web application that calculates the estimated solar energy output based on user input, including the city location, total area of solar panels, and their efficiency. It utilizes the Flask framework for the web interface and integrates with external APIs to fetch solar irradiance data.
@@ -75,3 +76,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# Fitness_health_tracker
+>>>>>>> ebad9621d885fef31160af0184d2caf1ab640719
